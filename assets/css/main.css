@@ -2479,6 +2479,18 @@
 			margin-right: auto;
 		}
 
+		.image.bigger {
+			display: block;
+			width: 100%;
+		}
+
+		.image.bigger img {
+			width: 90%;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 20px;
+		}
+
 /* List */
 
 	ol {
