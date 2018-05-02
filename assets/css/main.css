@@ -2470,13 +2470,13 @@
 
 		.image.small {
 			display: block;
-			margin-left: auto;
-			margin-right: auto;
-			width: 50%;
+			width: 100%;
 		}
 
 		.image.small img {
-			width: 100%;
+			width: 50%;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 /* List */
